@@ -18,7 +18,7 @@ For example, .jpg files are moved into a .jpg folder, .txt files into a .txt fol
 
 Clone the repository using:
 
-git clone https://github.com/your-username/file-extension-organizer.git
+git clone ( https://github.com/Amit-2119/File-Extension-Organizer.git )
 
 Or download the repository as a ZIP file from GitHub.
 
